@@ -1,0 +1,102 @@
+/* Body */
+
+.font {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Navbar */
+.fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  border-bottom: 4px solid gold;
+}
+
+/* Header */
+h1 {
+  font-size: clamp(2rem, -0.2069rem + 11.0345vw, 4rem);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 650;
+  color: #212529;
+  text-align: left;
+}
+
+.h2 {
+  font-size: clamp(1rem, -1.3103rem + 16.5517vw, 2rem);
+  font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  text-align: left;
+  color: #212529;
+}
+
+header {
+  background-image: url("../img/img.jpg");
+  background-color: black;
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+  margin: 0px;
+}
+.avatar-position {
+  max-height: 300px;
+}
+
+.avatar-position img {
+  height: 25%;
+  width: 25%;
+  border-radius: 60%;
+  display: flex;
+  margin: 0 auto;
+  position: relative;
+  bottom: 100px;
+  border: #212529 6px solid;
+}
+/* Section Acerca de mi */
+.h {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 4 rem;
+}
+
+p {
+  text-align: justify;
+}
+/* Section Portafolio */
+
+.font-card {
+  font-size: small;
+}
+
+.btn {
+  margin: 5% 30%;
+}
+
+.container200 {
+  margin: 0 10%;
+}
+
+/* Section Form */
+#exampleFormControlInput3 {
+  min-height: 150px;
+  position: relative;
+}
+
+/* Utilizado en Navbar y Footer  */
+.bg-black {
+  background-color: black;
+}
+
+.list {
+  text-align: justify;
+}
+
+i:hover {
+  color: goldenrod !important;
+}
