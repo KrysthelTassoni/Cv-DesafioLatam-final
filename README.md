@@ -10,7 +10,7 @@ https://krystheltassoni.github.io/Cv-DesafioLatam-final/
 
 https://github.com/KrysthelTassoni/portafolio-cv/commits/main/)
 
-## Segundo for a un compañero
+## Segundo fork a un compañero
 
 https://github.com/KrysthelTassoni/iguana
 
